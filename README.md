@@ -5,7 +5,4 @@ Discover publications, certifications, and my CV at [moshakiba.me](https://mosha
 
 Contact me at <moshakiba@icloud.com>.
 
-#### Skills:
-- **Python**, **R**, **SQL**, **C**, **Git**, **Math**, **Statistics**, **Machine Learning**, **Teaching**, **Research**
-
 
