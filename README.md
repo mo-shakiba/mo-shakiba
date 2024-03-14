@@ -7,5 +7,4 @@ Discover publications and my CV at [moshakiba.me](https://moshakiba.me/).
 
 **Skills:** Python, R, SQL, C, Git, Math, Statistics, Machine Learning, Teaching, Research
 
----
 
